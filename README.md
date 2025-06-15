@@ -24,3 +24,6 @@ A Logistic Regression model is created and trained using the training data. Once
 This entire workflow showcases a typical supervised learning process. The same structure can be reused for other classification tasks such as customer churn prediction, spam detection, or disease diagnosis—just by changing the dataset. Logistic regression, while simple, is effective for interpretable and baseline models in multiclass classification problems. The visualizations help in understanding data distribution, model performance, and potential improvements like handling imbalanced data or feature selection.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/b98811eb-646d-4f57-bec0-1855f35747b2)
+![Image](https://github.com/user-attachments/assets/4d3d0798-40f6-47d7-8106-4c8ace25f07f)
+![Image](https://github.com/user-attachments/assets/23453b12-6361-464d-9710-07e6d854f00b)
